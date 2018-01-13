@@ -1,6 +1,6 @@
 # nihongo
 
-> A Japanese Learning Object. 
+> A Vue.js project
 
 ## Build Setup
 
